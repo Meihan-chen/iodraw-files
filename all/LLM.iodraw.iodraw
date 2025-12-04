@@ -13,7 +13,7 @@
         <mxCell id="cbMC1MaMG7pYbpplwR1H-3" value="LLMEngine" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="120" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="cbMC1MaMG7pYbpplwR1H-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cbMC1MaMG7pYbpplwR1H-4" value="EngineArgs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="120" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="cbMC1MaMG7pYbpplwR1H-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
